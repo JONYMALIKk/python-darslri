@@ -1,2 +1,2 @@
-# python-darslri
+# python-darslari
 Mening python darslsrim
